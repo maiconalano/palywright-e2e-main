@@ -18,4 +18,8 @@ export default class HomeElements extends BaseElements {
   getProductCount(): Locator {
     return this.page.locator('span[class="heading-counter"]');
   }
+
+  getTshirtBottom(): Locator {
+    return this.page.locator('text=T-shirts >> nth=1');
+  }
 }
