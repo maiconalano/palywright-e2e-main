@@ -2,7 +2,7 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/maiconalano/playwright-e2e/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/maiconalano/playwright-e2e/actions/workflows/node.js.yml)
+[![Build and Tests](https://github.com/ugioni/playwright-e2e/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/maiconalano/playwright-e2e/actions/workflows/node.js.yml)
 
 ## SonarCloud
 
